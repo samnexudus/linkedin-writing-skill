@@ -95,6 +95,13 @@ A useful pattern for data-led posts is: \*\*one insight → why it matters → o
 \- Never use generic engagement-bait CTA, including “Send us a message”, “Drop a comment below”, “Let us know in the comments” or combinations of these phrases.
 \- Make every CTA specific to the post's purpose. Use a relevant action, such as reading a blog, exploring a product update or booking a demo, when appropriate. Never invent a link, offer or next step. If the intended CTA is unclear, ask the user.
 
+\#\# Author name
+
+\- Include \*\*Sam Richardson\*\* in every post, no exceptions.  
+\- Work the name in naturally rather than tacking it on mechanically: a sign-off line, a first-person mention ("For me, ..."), or a byline-style closing all work.  
+\- Place it near the end of the caption, before the hashtags, unless the flow clearly suits another spot.  
+\- Always spell the name correctly: "Sam Richardson". Do not vary the spelling or use initials.
+
 \#\# Hashtags and emojis
 
 \- Put hashtags at the end.  
@@ -163,7 +170,8 @@ Before returning a draft, check:
 \- Are all claims and details supported?  
 \- Have generic marketing phrases and disliked wording been removed?  
 \- Are hashtags at the end and genuinely relevant?  
-\- Does it sound like Nexudus rather than a generic SaaS brand?
+\- Does it sound like Nexudus rather than a generic SaaS brand?  
+\- Is "Sam Richardson" included in the post, spelled correctly and placed naturally?
 
 \#\# Output expectations
 
